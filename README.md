@@ -35,7 +35,7 @@
   </ul>
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,SQL,html,css&perline=14" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,sql,html,css&perline=14" />
 </p>
 
 
