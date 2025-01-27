@@ -35,7 +35,7 @@
   </ul>
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,sql,html,css&perline=14" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,mysql,html,css&perline=14" />
 </p>
 
 
@@ -46,7 +46,7 @@
   </ul>
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,mysql,adobeaftereffects,adobepremierepro&perline=14" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,mysql&perline=14" />
 </p>
 
 
