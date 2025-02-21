@@ -57,7 +57,7 @@
   </ul>
 </div>
 <p align="center">
-  <a  href="www.linkedin.com/in/alikarimi04" target="_blank">
+  <a  href="https://www.linkedin.com/in/alikarimi04" target="_blank">
     <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
   </a>
 <!--   <a href="" target="_blank">
